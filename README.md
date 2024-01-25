@@ -1,4 +1,4 @@
-<b>ft_printf<\b>
+<b>ft_printf</b>
 
 The prototype of ft_printf() is:<br>
 &emsp;int ft_printf(const char *, ...);<br>
